@@ -13,7 +13,7 @@
 # visit the Habitat Builder depot at https://bldr.habitat.sh/#/pkgs.
 
 pkg_name=sample-node-app
-pkg_origin=your_origin
+pkg_origin=andrewhsnyder_chef_habitat_origin_public
 pkg_version="1.1.0"
 pkg_deps=(core/node)
 
